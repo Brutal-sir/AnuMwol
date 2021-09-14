@@ -1,14 +1,14 @@
 {
-  "name": "JulieMwol",
+  "name": "AnuMwol",
   "version": "7.3.6",
-  "description": "Julie Mwol is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+  "description": "Anu Mwol is the Modified Version of WhatsAsena, Made By @Brutal-sir with Baileys.",
   "main": "./Julie-Mwol/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/farhan-dqz/Julie-Mwol.git"
+    "url": "git+https://github.com/Brutal-sir/AnuMwol.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "farhan-dqz",
-  "developer": "@TOXIC-DEVIL / @farhan-dqz",
+  "author": "Brutal-sir",
+  "developer": "@Brutal-sir / @farhan-dqz",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/farhan-dqz/Julie-Mwol/issues"
+    "url": "https://github.com/Brutal-sir/AnuMwol/issues"
   },
-  "homepage": "https://github.com/farhan-dqz/Julie-Mwol#readme",
+  "homepage": "https://github.com/Brutal-sir/AnuMwol#readme",
   "dependencies": {
     "@lh2020/speedtest-net": "^2.1.1",
     "textmaker-thiccy": "1.2.1",
