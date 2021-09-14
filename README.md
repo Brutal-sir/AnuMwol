@@ -31,10 +31,10 @@ GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
 $ git clone https://github.com/Brutal-sir/Anu-Mwol
-$ cd Julie-Mwol
+$ cd AnuMwol
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node julie.js
+$ node anu.js
 ```
       
 ```js
@@ -42,7 +42,7 @@ SETUP
 $ git clone https://github.com/Brutal-sir/Anu-Mwol
 $ cd AnuMwol
 $ npm i
-$ node anuz.js
+$ node anu.js
 ```
 
 ----
