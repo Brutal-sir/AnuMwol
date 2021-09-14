@@ -2,7 +2,7 @@
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/WSAIOnR.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="AnuMwol" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="AnuMwol" src="https://img.shields.io/badge/AnuMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Brutal-skr"><img title="Author" src="https://img.shields.io/badge/Author-Brutal-sir/AnuMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -40,24 +40,24 @@ $ node julie.js
 ```js
 SETUP
 $ git clone https://github.com/Brutal-sir/Anu-Mwol
-$ cd JulieMwol
+$ cd AnuMwol
 $ npm i
-$ node julie.js
+$ node anuz.js
 ```
 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
+  <a href="httsp://github.com/Brutal-sir/Anu-Mwol">
     
-<a href="https://github.com/farhan-dqz/followers">
-<img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
+<a href="https://github.com/Brutal-sir/followers">
+<img src="https://img.shields.io/github/repo-size/Brutal-sir/Anu-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/farhan-dqz/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Brutal-sir/Anu-Mwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Brutal-sir/Anu-Mwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/Brutal-sir/Anu-Mwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Brutal-sir/Anu-Mwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/Brutal-sir/Anu-Mwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Brutal-sir/Anu-Mwol?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -81,7 +81,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Brutal-sir](https://i.imgur.com/WSAIOnR.jpeg)](https://github.com/Brutal-sir) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
 [farhan-dqz](https://github.com/farhan-dqz) | [Brutal-sir](https://github.com/Brutal-sir) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
