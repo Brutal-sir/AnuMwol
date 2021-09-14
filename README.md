@@ -21,7 +21,7 @@ Project created by <a href="https://github.com/farhan-dqz">Brutal-sir</a> to mak
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Brutal-sir/Anu-Mwol) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Brutal-sir/AnuMwol) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
@@ -30,7 +30,7 @@ Project created by <a href="https://github.com/farhan-dqz">Brutal-sir</a> to mak
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Brutal-sir/Anu-Mwol
+$ git clone https://github.com/Brutal-sir/AnuMwol
 $ cd AnuMwol
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -39,7 +39,7 @@ $ node anu.js
       
 ```js
 SETUP
-$ git clone https://github.com/Brutal-sir/Anu-Mwol
+$ git clone https://github.com/Brutal-sir/AnuMwol
 $ cd AnuMwol
 $ npm i
 $ node anu.js
@@ -48,16 +48,16 @@ $ node anu.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Brutal-sir/Anu-Mwol">
+  <a href="httsp://github.com/Brutal-sir/AnuMwol">
     
 <a href="https://github.com/Brutal-sir/followers">
-<img src="https://img.shields.io/github/repo-size/Brutal-sir/Anu-Mwol?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/Brutal-sir/AnuMwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/farhan-dqz/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
-<a href="https://github.com/Brutal-sir/Anu-Mwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Brutal-sir/Anu-Mwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/Brutal-sir/Anu-Mwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Brutal-sir/Anu-Mwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/Brutal-sir/Anu-Mwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Brutal-sir/Anu-Mwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Brutal-sir/AnuMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Brutal-sir/AnuMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/Brutal-sir/AnuMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Brutal-sir/AnuMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/Brutal-sir/AnuMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Brutal-sir/AnuMwol?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -67,7 +67,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brutal-sir&repo=Anu-Mwol&theme=nightowl)](https://github.com/Brutal-sir/Anu-Mwol)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brutal-sir&repo=AnuMwol&theme=nightowl)](https://github.com/Brutal-sir/AnuMwol)
   </div>
     
 ### ⚠️ Warning! 
