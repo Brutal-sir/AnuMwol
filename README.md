@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/WSAIOnR.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/RxoUDDt.jpeg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="AnuMwol" src="https://img.shields.io/badge/AnuMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
