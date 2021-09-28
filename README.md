@@ -64,7 +64,7 @@ $ node anu.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  href="https://wa.me/+447441457757"><img title="any doubt contact" src="https://img.shields.io/badge/any_doubt_contact-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+    <a href="https://wa.me/+447441457757"><img title="any doubt contact" src="https://img.shields.io/badge/any_doubt_contact-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brutal-sir&repo=AnuMwol&theme=nightowl)](https://github.com/Brutal-sir/AnuMwol)
