@@ -55,7 +55,7 @@ Julie.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
             var uri = encodeURI(match[1])
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '918921483992@s.whatsapp.net') {
+        if (!!message.mention && message.mention[0] == '917356484508@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./media/uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == Config.MENTION) {
@@ -88,7 +88,7 @@ if(pattern.test(message.message)){
         if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '918921483992@s.whatsapp.net') {
+        if (!!message.mention && message.mention[0] == '917356484508@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./media/files/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == Config.MENTION) {
