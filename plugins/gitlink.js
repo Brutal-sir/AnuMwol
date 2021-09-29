@@ -16,7 +16,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "*Shows bot info*" }, (as
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*❖ ᴀͥɴͭᴜᷤܓᴍᴡͫᴏͤʟ ❖ ᴘᴜʙʟɪᴄ ʙᴏᴛ ❖*
+    await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*✮  ❖ ᴀͥɴͭᴜᷤܓᴍᴡͫᴏͤʟ ❖  ✮*
  
           *❖ ᴀͥɴͭᴜᷤܓᴍᴡͫᴏͤʟ ❖*
 
