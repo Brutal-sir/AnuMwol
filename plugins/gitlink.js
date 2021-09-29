@@ -18,12 +18,12 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "*Shows bot info*" }, (as
 
     await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*❖ ᴀͥɴͭᴜᷤܓᴍᴡͫᴏͤʟ ❖ ᴘᴜʙʟɪᴄ ʙᴏᴛ ❖*
  
-        *ɢɪᴛʜᴜʙ ʟɪɴᴋ        _https://github.com/Brutal-sir/AnuMwol_*
- 
- 
-       *ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ        _http://Wa.me/+917356484508_*
-  
-  
-      *ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ ʟɪɴᴋ _https://github.com/Brutal-sir_*`}) 
+          *❖ ᴀͥɴͭᴜᷤܓᴍᴡͫᴏͤʟ ❖  ᴘᴜʙʟɪᴄ ʙᴏᴛ ❖*
+
+      ❖ ᴏᴡɴᴇʀ: wa.me/917356484508  
+
+     ❖ *ᴅᴇᴠᴇʟᴏᴘᴇʀ: Ᏼʀᴜтᷤᴀͥʟᷢ࿐⁩*
+
+    ❖ *ɢɪᴛʜᴜʙ ʟɪɴᴋ:* *http://github.com/Brutal-sir/AnuMwol*`}) 
 
 }));
