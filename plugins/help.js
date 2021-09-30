@@ -5,7 +5,7 @@ const axios = require('axios');
 const Language = require('../language');
 const Lang = Language.getString('gitlink');
 
-Asena.addCommand({pattern: 'list', fromMe: false, desc: Lang.GL}, (async (message, match) => {
+Asena.addCommand({pattern: 'help', fromMe: false, desc: Lang.GL}, (async (message, match) => {
 
     var r_text = new Array ();
     
