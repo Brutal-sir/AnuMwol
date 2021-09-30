@@ -9,7 +9,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "*Shows bot info*" }, (as
     
     
    
-  r_text[0] = "https://i.imgur.com/NoQRit8.jpeg";
+  r_text[0] = "https://i.imgur.com/hRr41pb.jpeg";
     
     
     var i = Math.floor(1*Math.random())
