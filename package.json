@@ -1,6 +1,6 @@
 {
   "name": "AnuMwol",
-  "version": "7.3.6",
+  "version": "v8.0.0",
   "description": "Anu Mwol is the Modified Version of WhatsAsena, Made By @Brutal-sir with Baileys.",
   "main": "./Julie-Mwol/bot.js",
   "scripts": {
