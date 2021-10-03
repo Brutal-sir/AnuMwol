@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://github.com/Brutal-sir">
        <img
-          src="https://readme-typing-svg.herokuapp.com?size=35&width=800&lines=❖+Welcome+To+Anu-Mwol+Wa-Bot..+❖;❖+Created+by+Brutal+Sir+with+Baileys+❖;❖+With+more+features+❖"
+          src="https://readme-typing-svg.herokuapp.com?size=35&width=800&lines=❖+Welcome+To+Anu-Mwol+Wa-Bot..+❖;❖+Created+by+Brutal+Sir+with+Baileys+❖"
           alt="Typing SVG"
         />
     </a>
