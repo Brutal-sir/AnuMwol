@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://github.com/Brutal-sir">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Anu-Mwol-v1+BOT...+Codded+by+Brutal...."
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Anu-Mwol+BOT...+Coded+by+Brutal...."
             alt="Typing SVG"
         />
     </a>
