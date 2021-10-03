@@ -1,3 +1,11 @@
+<p align="center">
+    <a href="https://github.com/Brutal-sir">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Anu-Mwol-v1+BOT...+Codded+by+Brutal..."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
 
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/RxoUDDt.jpeg" width="200" height="200"/>
