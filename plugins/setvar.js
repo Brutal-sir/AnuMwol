@@ -1,5 +1,5 @@
-/* Copyright (C) 2021 farhan-dqz
-coded for juliemwol
+/* Copyright (C) 2021 Brutal-sir
+coded for Anu Mwol
 */
 
 const Julie = require('../events');
