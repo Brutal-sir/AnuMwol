@@ -73,7 +73,7 @@ $ node anu.js
 </p>
 
 ## 📢 Guide
-Click WA logo to Join Support Group 👇
+For contacting me👇
     <br>
 <br>
     <a href="https://wa.me/+447441457757"><img title="any doubt contact" src="https://img.shields.io/badge/any_doubt_contact-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
