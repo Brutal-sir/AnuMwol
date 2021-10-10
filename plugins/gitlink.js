@@ -18,7 +18,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "*Shows bot info*" }, (as
 
     await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*✮  ❖ ᴀͥɴͭᴜᷤܓᴍᴡͫᴏͤʟ ❖  ✮*
  
- ❖ *𝙰ɴᴜᴍᴡᴏʟ ᴠ¹
+ ❖ *𝙰ɴᴜᴍᴡᴏʟ ᴠ¹*
 
  ❖ *ᴏᴡɴᴇʀ: wa.me/917356484508* 
 
