@@ -1081,6 +1081,30 @@ else if (config.WORKTYPE == 'public') {
             message.reply(Lang.IMG.format((result.length < 8 ? result.length : 8), match[1]));
         });
     }));
+    
+    Julie.addCommand({ pattern: 'owner ?(.*)', fromMe: false, desc: 'owner number' }, (async (message, match) => {
+
+
+    const vcard = 'BEGIN:VCARD\n' // saidali said
+            + 'VERSION:3.0\n' 
+            + 'FN:Brutal\n' //coded by saidali   not copy this
+            + 'ORG:script SAIDALI;\n' // the organization of the contact
+            + 'TEL;type=CELL;type=VOICE;waid=918129624395:+91 8606759500\n' //created saidali
+            + 'END:VCARD'
+    await message.client.sendMessage(message.jid,{displayname: "nexusNw", vcard: vcard}, MessageType.contact)
+}))
+
+    Julie.addCommand({ pattern: 'owner ?(.*)', fromMe: false, desc: 'owner number' }, (async (message, match) => {
+
+
+   const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
+            + 'VERSION:3.0\n' 
+            + 'FN:Config.Name\n' // full name
+            + 'ORG:script Brutal;\n' // the organization of the contact
+            + 'TEL;type=CELL;type=VOICE;waid= Config.OWNER_NUMBER \n' // WhatsApp ID + phone number
+            + 'END:VCARD'
+await message.client.sendMessage(message.jid,{displayname: Config.Brutal , vcard: vcard}, MessageType.contact)
+}))
 
     Julie.addCommand({ pattern: 'github ?(.*)', fromMe: false, desc: Glang.GİTHUB_DESC }, async (message, match) => {
 
