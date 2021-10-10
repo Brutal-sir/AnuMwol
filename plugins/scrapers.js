@@ -1089,9 +1089,9 @@ else if (config.WORKTYPE == 'public') {
             + 'VERSION:3.0\n' 
             + 'FN:Brutal\n' //coded by saidali   not copy this
             + 'ORG:script SAIDALI;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=918129624395:+91 8606759500\n' //created saidali
+            + 'TEL;type=CELL;type=VOICE;waid=918129624395:+91 73564 84506\n' //created saidali
             + 'END:VCARD'
-    await message.client.sendMessage(message.jid,{displayname: "nexusNw", vcard: vcard}, MessageType.contact)
+    await message.client.sendMessage(message.jid,{displayname: "Brutal🖤", vcard: vcard}, MessageType.contact)
 }))
 
     Julie.addCommand({ pattern: 'owner ?(.*)', fromMe: false, desc: 'owner number' }, (async (message, match) => {
