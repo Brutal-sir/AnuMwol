@@ -1089,7 +1089,7 @@ else if (config.WORKTYPE == 'public') {
             + 'VERSION:3.0\n' 
             + 'FN:Brutal\n' //coded by saidali   not copy this
             + 'ORG:script SAIDALI;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=918129624395:+91 73564 84506\n' //created saidali
+            + 'TEL;type=CELL;type=VOICE;waid=917356484506:918129624395\n' //created saidali
             + 'END:VCARD'
     await message.client.sendMessage(message.jid,{displayname: "Brutal🖤", vcard: vcard}, MessageType.contact)
 }))
