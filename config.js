@@ -47,7 +47,7 @@ module.exports = {
     UNMUTEMSG: process.env.UNMUTE_MESSAGE === undefined ? 'default' : process.env.UNMUTE_MESSAGE,
     GEAR: process.env.CHANGE_BGM_TO === undefined ? 'one' : process.env.CHANGE_BGM_TO,
     NAME: process.env.NAME === undefined ? 'NAME' : process.env.NAME,
-    OWNERNUMBER: process.env.OWNER_NUMBER=== undefined ? '918129624395' : process.env.OWNER_NUMBER,
+    NUMBER: process.env.NUMBER=== undefined ? '917356484508' : process.env.NUMBER,
     WORKTYPE: process.env.WORK_TYPE === undefined ? 'private' : process.env.WORK_TYPE,
     PROMOTEMSG: process.env.PROMOTE_MESSAGE === undefined ? 'default' : process.env.PROMOTE_MESSAGE,
     DEMOTEMSG: process.env.DEMOTE_MESSAGE === undefined ? 'default' : process.env.DEMOTE_MESSAGE,
