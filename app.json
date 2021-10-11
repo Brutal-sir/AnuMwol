@@ -146,7 +146,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Coded by brutal sir```"
+            "value": "\n ```I Am Alive !!!```\n\n```Coded by Brutal sir```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
@@ -156,6 +156,11 @@
         "OWNER_NUMBER": {
             "description": "give your orginal phone number if you wish to add it in .number cmnd",
             "required": false
+        },
+        "NAME": {
+            "description": "use your contact name",
+            "required": false,
+            "value": "Brutal🖤"
         },
         "SONGD": {
             "description": "Customizable song DOWNLOADING message instead of 'Dowloading your song'",
