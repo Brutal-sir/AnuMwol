@@ -1101,7 +1101,7 @@ else if (config.WORKTYPE == 'public') {
             + 'VERSION:3.0\n' 
             + 'FN:Config.OWN_NAME\n' // full name
             + 'ORG:script Brutal;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid= Config.NUMBER \n' // WhatsApp ID + phone number
+            + 'TEL;type=CELL;type=VOICE;waid= Config.PHONE \n' // WhatsApp ID + phone number
             + 'END:VCARD'
 await message.client.sendMessage(message.jid,{displayname: Config.OWN_NAME , vcard: vcard}, MessageType.contact)
 }))
