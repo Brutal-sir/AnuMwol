@@ -155,9 +155,10 @@
         },
         "NUMBER": {
             "description": "give your orginal phone number if you wish to add it in .number cmnd",
-            "required": false
+            "required": false,
+            "value": "917356484508"
         },
-        "NAME": {
+        "OWN_NAME": {
             "description": "use your contact name",
             "required": false,
             "value": "Brutal🖤"
