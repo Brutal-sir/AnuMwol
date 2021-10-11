@@ -153,7 +153,7 @@
             "required": false,
             "value": "default"
         },
-        "OWNER_NUMBER": {
+        "NUMBER": {
             "description": "give your orginal phone number if you wish to add it in .number cmnd",
             "required": false
         },
