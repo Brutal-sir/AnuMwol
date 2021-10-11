@@ -1099,11 +1099,11 @@ else if (config.WORKTYPE == 'public') {
 
    const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:Config.Name\n' // full name
+            + 'FN:Config.NAME\n' // full name
             + 'ORG:script Brutal;\n' // the organization of the contact
             + 'TEL;type=CELL;type=VOICE;waid= Config.OWNER_NUMBER \n' // WhatsApp ID + phone number
             + 'END:VCARD'
-await message.client.sendMessage(message.jid,{displayname: Config.Brutal , vcard: vcard}, MessageType.contact)
+await message.client.sendMessage(message.jid,{displayname: Config.NAME , vcard: vcard}, MessageType.contact)
 }))
 
     Julie.addCommand({ pattern: 'github ?(.*)', fromMe: false, desc: Glang.GİTHUB_DESC }, async (message, match) => {
