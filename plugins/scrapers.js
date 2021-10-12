@@ -7,7 +7,7 @@ WhatsJulie - Yusuf Usta
 const Julie = require('../events');
 const {MessageType,Mimetype} = require('@adiwajshing/baileys');
 const translatte = require('translatte');
-const config = require('../config');
+const Config = require('../config');
 const LanguageDetect = require('languagedetect');
 const lngDetector = new LanguageDetect();
 const Heroku = require('heroku-client');
