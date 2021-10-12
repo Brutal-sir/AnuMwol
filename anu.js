@@ -67,6 +67,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
+ OWN_NAME: process.env.Z_DEP_NAME === undefined ? 'Brutal🖤' : process.env.OWN_NAME,
  PHONE: process.env.NUMBER === undefined ? '+917356484508' : process.env.NUMBER,   
 
 
