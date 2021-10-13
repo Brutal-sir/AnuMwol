@@ -12,7 +12,7 @@ const LanguageDetect = require('languagedetect');
 const lngDetector = new LanguageDetect();
 const Heroku = require('heroku-client');
 const heroku = new Heroku({
-    token: config.HEROKU.API_KEY
+    token: Config.HEROKU.API_KEY
 });
 let baseURI = '/apps/' + config.HEROKU.APP_NAME;
 //============================== LYRICS =============================================
