@@ -7,14 +7,14 @@ WhatsJulie - Yusuf Usta
 const Julie = require('../events');
 const {MessageType,Mimetype} = require('@adiwajshing/baileys');
 const translatte = require('translatte');
-const Config = require('../config');
+const config = require('../config');
 const LanguageDetect = require('languagedetect');
 const lngDetector = new LanguageDetect();
 const Heroku = require('heroku-client');
 const heroku = new Heroku({
-    token: Config.HEROKU.API_KEY
+    token: config.HEROKU.API_KEY
 });
-let baseURI = '/apps/' + Config.HEROKU.APP_NAME;
+let baseURI = '/apps/' + config.HEROKU.APP_NAME;
 //============================== LYRICS =============================================
 const axios = require('axios');
 const { requestLyricsFor, requestAuthorFor, requestTitleFor, requestIconFor } = require("solenolyrics");
