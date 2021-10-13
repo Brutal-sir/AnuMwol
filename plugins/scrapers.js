@@ -1082,7 +1082,7 @@ else if (config.WORKTYPE == 'public') {
         });
     }));
   
-    Julie.addCommand({pattern: 'owner' fromMe: false, desc: 'get add contact of a number', dontAddCommandList: true}, (async (message, match) => {
+    Julie.addCommand({pattern: 'owner' fromMe: false, desc: Lang.NUMBER}, (async (message, match) => {
 
             const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
